@@ -1,1 +1,0 @@
-Durante esta actividad utilicé algunos comandos básicos de la terminal, como pwd para ver en qué carpeta estaba trabajando.También usé ls para listar los archivos y carpetas dentro del directorio actual.El comando cd me permitió moverme entre diferentes carpetas según lo necesitaba.Además, utilicé mkdir para crear nuevas carpetas y organizar mejor los archivos del proyecto.
